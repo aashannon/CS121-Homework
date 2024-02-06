@@ -1,0 +1,19 @@
+cs 121 Fall
+cs 122 Spring
+cs 166 Spring
+cs 215 Fall
+cs 223 Fall
+cs 224 Spring
+cs 251 Spring
+cs 260 Fall
+cs 261 Spring
+
+Gap
+Gap
+Gap
+Gap
+Gap
+Gap
+Gap
+Gap
+Gap
